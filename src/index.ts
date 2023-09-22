@@ -10,4 +10,4 @@ const boot = () => {
     });
 }
 
-boot(); 
+boot();
